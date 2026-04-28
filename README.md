@@ -26,5 +26,11 @@ The dataset contains student scores in Math, Reading, and Writing along with att
 - analysis.R → R code
 - StudentsPerformance.csv → dataset
 
+## 📊 Sample Insights (from analysis)
+
+- Students who completed test preparation scored higher on average
+- There is a strong positive correlation between Math and Reading scores
+- Students with standard lunch performed better than those with free/reduced lunch
+
 ## 👩‍💻 Author
 Rashmitha R
