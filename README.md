@@ -1,9 +1,9 @@
 # Student Performance Analysis
 
-This project analyzes student exam performance using R.
+This project analyzes student exam performance using R and identifies key factors affecting scores.
 
 ## 📊 Dataset
-The dataset contains student scores in Math, Reading, and Writing along with factors like gender, parental education, and test preparation.
+The dataset contains student scores in Math, Reading, and Writing along with attributes like gender, parental education, lunch type, and test preparation.
 
 ## 💻 Tools Used
 - R Programming
@@ -18,9 +18,9 @@ The dataset contains student scores in Math, Reading, and Writing along with fac
 - Data visualization
 
 ## 📈 Key Insights
-- Students who completed test preparation performed better
+- Students who completed test preparation scored higher
 - Strong correlation between Math and Reading scores
-- Lunch type impacts performance
+- Students with standard lunch performed better overall
 
 ## 📁 Files
 - analysis.R → R code
@@ -28,4 +28,3 @@ The dataset contains student scores in Math, Reading, and Writing along with fac
 
 ## 👩‍💻 Author
 Rashmitha R
-
